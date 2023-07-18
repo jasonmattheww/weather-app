@@ -1,0 +1,12 @@
+header {
+  background: linear-gradient(.25turn, #DAAD86, 50%, #659DBD);
+  color: #ffffff;
+}
+
+.searchbtn-color {
+  background-color: #659dbd;
+}
+
+.searchbtn-color:hover {
+  background-color: #a5c6d6;
+}
