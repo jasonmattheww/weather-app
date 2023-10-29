@@ -3,6 +3,10 @@ header {
   color: #ffffff;
 }
 
+body {
+  background-color: #fdf0e5;
+}
+
 .searchbtn-color {
   background-color: #659dbd;
 }
